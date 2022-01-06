@@ -1,0 +1,5 @@
+¿Qué cantidad de huesos hay en el cuerpo humano adulto?,300,206,204,200,206
+¿Quién pintó “la última cena”?,Leonardo da Vinci,Miguel Angelo,Picasso,Goethe,Leonardo da Vinci
+¿Cómo se denomina el resultado de la multiplicación?,Resultado,Multiplicación,Producto,Respuesta,Producto
+¿Cuál es el océano más grande?,Atlántico,Índico,Ártico,Pacífico,Pacífico
+¿En qué se especializa la cartografía?,Mapas,Cartas,Cartón,Papeles,Mapas

@@ -1,0 +1,5 @@
+¿Quién descubrió América?,Colón,Fernández,Miranda,Bolivar,Colón
+¿El color amarillo es un color?,Secundario,Terciario,Cuaternario,Primario,Primario
+¿La nacionalidad de Shakira es?,Argentina,Colombiana,Española,Mexicana,Colombiana
+¿El inventor del teléfono es?,Nicola  Tesla,Thomas Edisson,‎Antonio Meucci,Albert Einstein,‎Antonio Meucci
+¿WWW significa?,Internet,Android,Windows,World Wide Web,World Wide Web

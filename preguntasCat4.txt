@@ -1,0 +1,5 @@
+¿Cuál es el país más grande del mundo?,EE.UU,Rusia,China,Brasil,Rusia
+¿Qué producto cultiva más Guatemala?,Maíz,Papa,Café,Trigo,Café
+¿En qué año comenzó la II Guerra Mundial?,1945,1944,1940,1939,1939
+¿Cual es país más poblado de la Tierra?,EE.UU,Rusia,China,Brasil,China
+¿En qué lugar del cuerpo se produce la insulina?,Corazón,Estómago,Bazo,Páncreas,Páncreas

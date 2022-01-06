@@ -1,0 +1,5 @@
+¿Cuál es el lugar más frío de la tierra?,Ártico,Islandia,Groelandia,Antártida,Antártida
+¿Quién escribió La Odisea?,Sófocles,Homero,Aristóteles,Platón,Homero
+¿Cuál es el río más largo del mundo?,Amazonas,Nilo,Bravo,Colorado,Amazonas
+¿Cómo se llama la Reina del Reino Unido?,Ana I,Isabel III,Isabel II,Elizabeth I,Isabel II
+¿En qué continente está Ecuador?,Asiático,Europeo,Americano,Africano,Americano
